@@ -65,7 +65,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Video step 2
-        url: ""
+        url: https://drive.google.com/file/d/1uaZPmvNxoTcp4p7fVUFKFBra18zSNP2j/view?usp=sharing
   - type: features
     title: Step 3
     section_id: three
