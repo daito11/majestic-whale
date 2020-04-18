@@ -14,9 +14,6 @@ sidebar:
     - is_primary: false
       title: "Step 3: Terza parte dell’esposizione graduale"
       url: "#three"
-    - title: Get in touch
-      url: "#four"
-      is_primary: false
 sections:
   - type: intro
     title: Protocollo
