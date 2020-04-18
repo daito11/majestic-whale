@@ -44,9 +44,10 @@ sections:
     background_style: style2
     component: Features
     subtitle: >-
-      In questo video vedremo come
-
-      approcciarsi alla mascherina, come avvicinare la persona ad uno stimolo nuovo.
+      In questo[
+      video](https://drive.google.com/file/d/1IfJ1ujPCdR9YkswwwDNJOfSsQfgKCv4w/view?usp=sharing)
+      vedremo come approcciarsi alla mascherina, come avvicinare la persona ad
+      uno stimolo nuovo.
 
       Qualora la persona abbia già raggiunto questo step, passare allo step 2.
     actions:
