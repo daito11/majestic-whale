@@ -70,6 +70,13 @@ sections:
         is_primary: false
         label: Video step 2
         url: "#two"
+  - type: features
+    title: Features Section
+    section_id: three
+    background_style: style2
+    component: Features
+    subtitle: In questo video vedremo come esporre gradualmente la persona ad
+      indossare la mascherina.
 menus:
   main:
     title: Home
