@@ -56,6 +56,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Video step 1
+        url: "#one"
 menus:
   main:
     title: Home
