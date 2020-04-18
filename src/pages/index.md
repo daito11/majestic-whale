@@ -41,6 +41,17 @@ sections:
         is_scrolly: true
         is_primary: false
     component: Intro
+  - type: features
+    title: Step 1
+    section_id: one
+    background_style: style2
+    component: Features
+    subtitle: >-
+      In questo video vedremo come
+
+      approcciarsi alla mascherina, come avvicinare la persona ad uno stimolo nuovo.
+
+      Qualora la persona abbia già raggiunto questo step, passare allo step 2.
 menus:
   main:
     title: Home
