@@ -52,7 +52,7 @@ sections:
     features_list: []
     actions:
       - is_scrolly: true
-        is_primary: true
+        is_primary: false
         label: Video step 1
   - features_list: []
     background_style: style1
@@ -69,7 +69,7 @@ sections:
     component: Features
     actions:
       - is_scrolly: true
-        is_primary: true
+        is_primary: false
         label: Video step 2
   - type: features
     title: Features Section
@@ -78,7 +78,7 @@ sections:
     component: Features
     actions:
       - is_scrolly: true
-        is_primary: true
+        is_primary: false
         label: Video step 3
     subtitle: In questo video vedremo come esporre gradualmente la persona ad
       indossare la mascherina.
