@@ -19,10 +19,20 @@ sidebar:
       is_primary: false
 sections:
   - type: intro
-    title: Hyperspace
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+    title: Protocollo
+    subtitle: >-
+      La seguente demo racchiude l’idea di base per rendere accessibile a tutte
+      le famiglie ed operatori interessati, protocolli sperimentali specifici,
+      attraverso un percorso facile e fruibile per tutti. La seguente sezione è
+      articolata in 3 diversi step. Ogni step racchiude un video con una
+      spiegazione specifica ed articolata dell’argomento in oggetto:
+
+
+      - **Step 1** riguarda l'approccio alla mascherina;
+
+      - **Step 2** si riferisce all’incrementare il tempo di esposizione;
+
+      - **Step 3** è inerente all’esporre gradualmente la persona ad indossare la mascherina.
     section_id: intro
     background_style: style1
     actions:
