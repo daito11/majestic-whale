@@ -71,7 +71,7 @@ sections:
         label: Video step 2
         url: "#two"
   - type: features
-    title: Features Section
+    title: Step 3
     section_id: three
     background_style: style2
     component: Features
