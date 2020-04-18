@@ -77,6 +77,11 @@ sections:
     component: Features
     subtitle: In questo video vedremo come esporre gradualmente la persona ad
       indossare la mascherina.
+    actions:
+      - is_scrolly: false
+        is_primary: false
+        label: Video step 3
+        url: "#three"
 menus:
   main:
     title: Home
