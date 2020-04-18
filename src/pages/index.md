@@ -52,6 +52,10 @@ sections:
       approcciarsi alla mascherina, come avvicinare la persona ad uno stimolo nuovo.
 
       Qualora la persona abbia già raggiunto questo step, passare allo step 2.
+    actions:
+      - is_scrolly: false
+        is_primary: false
+        label: Video step 1
 menus:
   main:
     title: Home
