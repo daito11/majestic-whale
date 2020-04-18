@@ -65,7 +65,11 @@ sections:
     subtitle: In questo video vedremo come è possibile svolgere l’esposizione
       gradualmente incrementando la distanza ed il tempo di esposizione. Qualora
       la persona abbia già raggiunto questo step, passare allo step 3.
-    actions: []
+    actions:
+      - is_scrolly: false
+        is_primary: false
+        label: Video step 2
+        url: "#two"
 menus:
   main:
     title: Home
