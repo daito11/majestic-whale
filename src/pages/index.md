@@ -41,55 +41,49 @@ sections:
         is_scrolly: true
         is_primary: false
     component: Intro
-  - type: spotlights
-    title: Spotlights Section
+  - type: features
+    title: STEP 1
     section_id: one
     background_style: style2
-    component: Spotlights
-  - type: features
-    title: What we do
+    component: Features
+    subtitle: >-
+      In questo video vedremo come approcciarsi alla mascherina, come avvicinare
+      la persona ad uno stimolo nuovo.
+
+      Qualora la persona abbia già raggiunto questo step, passare allo step 2
+    features_list: []
+    actions:
+      - is_scrolly: true
+        is_primary: true
+        label: Video step 1
+  - features_list: []
+    background_style: style1
+    text: In questo video vedremo come è possibile svolgere l’esposizione
+      gradualmente incrementando la distanza ed il tempo di esposizione. Qualora
+      la persona abbia già raggiunto questo step, passare allo step 3.
+    section_id: two
     subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
-    section_id: two
-    background_style: style1
-    features_list:
-      - title: Lorem ipsum amet
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-code
-      - title: Aliquam sed nullam
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-lock
-      - title: Sed erat ullam corper
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-cog
-      - title: Veroeros quis lorem
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-desktop
-      - title: Urna quis bibendum
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-chain
-      - title: Aliquam urna dapibus
-        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-          turpis mauris, sed ultricies erat dapibus.
-        icon: fa-diamond
-    actions:
-      - label: Learn more
-        url: /generic
-        is_scrolly: false
-        is_primary: false
+    title: Step 2
+    type: features
     component: Features
-  - type: spotlights
-    title: Spotlights Section
+    actions:
+      - is_scrolly: true
+        is_primary: true
+        label: Video step 2
+  - type: features
+    title: Features Section
     section_id: three
-    background_style: style2
-    component: Spotlights
+    background_style: style1
+    component: Features
+    actions:
+      - is_scrolly: true
+        is_primary: true
+        label: Video step 3
+    subtitle: In questo video vedremo come esporre gradualmente la persona ad
+      indossare la mascherina.
   - type: contact
     title: Get in touch
     text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
