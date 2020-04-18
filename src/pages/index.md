@@ -52,7 +52,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Video step 1
-        url: https://drive.google.com/file/d/1IfJ1ujPCdR9YkswwwDNJOfSsQfgKCv4w/view?usp=sharing
+        url: https://drive.google.com/file/d/1uaZPmvNxoTcp4p7fVUFKFBra18zSNP2j/view?usp=sharing
   - type: features
     title: Step 2
     section_id: two
