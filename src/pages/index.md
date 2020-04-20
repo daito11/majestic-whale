@@ -21,8 +21,10 @@ sections:
   - type: intro
     title: Protocollo
     subtitle: >-
-      Che tipo di comportamenti saremo chiamati ad esibire quando il lockdown
-      sarà finito e inizierà la Fase 2?
+      ![](/images/whatsapp-image-2020-04-20-at-16.44.46.jpeg)
+
+
+      Che tipo di comportamenti saremo chiamati ad esibire quando il lockdown sarà finito e inizierà la Fase 2?
 
 
       Lo staff di Allenamente sta riflettendo sulle buone prassi che come cittadini saremo chiamati a esibire una volta che inizierà la Fase 2 di questo fenomeno che ci ha tutti quanti coinvolti e ci sta tenendo lontani ormai da tempo.
