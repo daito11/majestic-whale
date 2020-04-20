@@ -1,5 +1,9 @@
 ---
 title: Protocollo 1
+menus:
+  main:
+    title: Home
+    weight: 1
 sidebar:
   entries:
     - title: Introduzione
