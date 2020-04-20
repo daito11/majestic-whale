@@ -1,8 +1,5 @@
 ---
 title: Protocollo 1
-home_spotlights:
-  enabled: true
-  weight: 2
 sidebar:
   entries:
     - title: Introduzione
