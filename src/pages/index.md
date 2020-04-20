@@ -71,8 +71,8 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Video step 1
-        url: https://drive.google.com/file/d/1MV3Uh8pVa_9PkU-SJ80-3r5hTKzH72R4/view?usp=sharing
+        label: Vai al corso
+        url: "#one"
   - type: features
     title: Protocollo d’insegnamento per indossare i guanti monouso
     section_id: two
@@ -84,8 +84,8 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Video step 2
-        url: https://drive.google.com/file/d/1uaZPmvNxoTcp4p7fVUFKFBra18zSNP2j/view?usp=sharing
+        label: Vai al corso
+        url: "#two"
   - type: features
     title: Protocollo d’insegnamento per indossare la mascherina e guanti monouso
     section_id: three
@@ -96,7 +96,7 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Video step 3
+        label: Vai al corso
         url: "#three"
   - type: contact
     title: Contact Section
