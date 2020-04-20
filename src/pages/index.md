@@ -59,7 +59,7 @@ sections:
         is_primary: false
     component: Intro
   - type: features
-    title: Step 1
+    title: Protocollo d’insegnamento per indossare la mascherina monouso
     section_id: one
     background_style: style2
     component: Features
@@ -74,7 +74,7 @@ sections:
         label: Video step 1
         url: https://drive.google.com/file/d/1MV3Uh8pVa_9PkU-SJ80-3r5hTKzH72R4/view?usp=sharing
   - type: features
-    title: Step 2
+    title: Protocollo d’insegnamento per indossare i guanti monouso
     section_id: two
     background_style: style1
     component: Features
@@ -87,7 +87,7 @@ sections:
         label: Video step 2
         url: https://drive.google.com/file/d/1uaZPmvNxoTcp4p7fVUFKFBra18zSNP2j/view?usp=sharing
   - type: features
-    title: Step 3
+    title: Protocollo d’insegnamento per indossare la mascherina e guanti monouso
     section_id: three
     background_style: style2
     component: Features
