@@ -65,7 +65,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Vai al protocollo
-        url: /Prone
+        url: /protocollo-d’insegnamento-per-indossare-la-mascherina-monouso
     features_list: []
   - type: features
     title: Protocollo d’insegnamento per indossare i guanti monouso
