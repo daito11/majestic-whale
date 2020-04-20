@@ -14,6 +14,9 @@ sidebar:
     - is_primary: false
       title: "Step 3: Terza parte dell’esposizione graduale"
       url: "#three"
+    - is_primary: false
+      title: Contattaci
+      url: "#four"
 sections:
   - type: intro
     title: Protocollo
@@ -95,6 +98,16 @@ sections:
         is_primary: false
         label: Video step 3
         url: "#three"
+  - type: contact
+    title: Contact Section
+    section_id: four
+    background_style: style1
+    component: Contact
+    social:
+      social_icons:
+        - title: Facebook
+          icon: facebook
+          url: https://www.facebook.com/centroallenamente/
 menus:
   main:
     title: Home
