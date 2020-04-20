@@ -2,17 +2,17 @@
 title: Home
 sidebar:
   entries:
-    - title: Welcome
+    - title: Introduzione
       url: "#intro"
       is_primary: true
-    - title: Protocollo mascherina monouso
+    - title: Step 1
       url: "#one"
       is_primary: false
-    - title: Protocollo guanti monouso
+    - title: Step 2
       url: "#two"
       is_primary: false
     - is_primary: false
-      title: Protocollo mascherina e guanti monouso
+      title: Step 3
       url: "#three"
 sections:
   - type: intro
