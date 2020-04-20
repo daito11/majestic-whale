@@ -12,15 +12,13 @@ export default class Clock extends React.Component {
                     <section id="main" className="wrapper">
                         <div className="inner">
                             <h1 className="major">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
-                            {_.get(this.props, 'pageContext.frontmatter.content_img_path') && 
-                                <span className="image fit"><img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.content_img_path'))} alt="" /></span>
-                            }
                             {_.map(_.get(this.props, 'pageContext.frontmatter.sections'), (section, section_idx) => {
                         let GetSectionComponent = components[_.get(section, 'component')];
                         return (
                             <GetSectionComponent key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} page={this.props.pageContext} />
                         )
                     })}
+                            {htmlToReact(_.get(this.props, 'pageContext.html'))}
                         </div>
                     </section>
                 </div>
