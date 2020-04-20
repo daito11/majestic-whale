@@ -6,7 +6,7 @@ sidebar:
       url: "#intro"
       is_primary: true
     - title: Protocollo mascherina monouso
-      url: "#one"
+      url: "#four"
       is_primary: false
     - title: Protocollo guanti monouso
       url: "#two"
