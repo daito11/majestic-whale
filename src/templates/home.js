@@ -7,11 +7,6 @@ export default class Home extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
-             <div id="header">
-              <h1>Logo</h1>
-              <div id="nav">
-               <ul>
-                  <li><a href="">Home</a></li>
                 <div id="wrapper">
                     {_.map(_.get(this.props, 'pageContext.frontmatter.sections'), (section, section_idx) => {
                         let GetSectionComponent = components[_.get(section, 'component')];
