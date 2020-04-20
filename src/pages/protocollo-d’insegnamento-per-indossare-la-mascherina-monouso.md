@@ -31,7 +31,7 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al protocollo
+        label: Vai al video
         url: /protocollo-d’insegnamento-per-indossare-la-mascherina-monouso
     features_list: []
   - type: features
@@ -43,7 +43,7 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al protocollo
+        label: Vai al video
         url: "#two"
   - type: features
     title: Step 3
@@ -54,7 +54,7 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al protocollo
+        label: Vai al video
         url: "#three"
 menus:
   main:
