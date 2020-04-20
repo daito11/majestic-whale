@@ -23,7 +23,7 @@ sections:
     background_style: style1
     component: Intro
   - type: features
-    title: Protocollo d’insegnamento per indossare la mascherina monouso
+    title: Step 1
     section_id: one
     background_style: style2
     component: Features
@@ -35,7 +35,7 @@ sections:
         url: /protocollo-d’insegnamento-per-indossare-la-mascherina-monouso
     features_list: []
   - type: features
-    title: Protocollo d’insegnamento per indossare i guanti monouso
+    title: Step 2
     section_id: two
     background_style: style1
     component: Features
@@ -46,7 +46,7 @@ sections:
         label: Vai al protocollo
         url: "#two"
   - type: features
-    title: Protocollo d’insegnamento per indossare la mascherina e guanti monouso
+    title: Step 3
     section_id: three
     background_style: style2
     component: Features
