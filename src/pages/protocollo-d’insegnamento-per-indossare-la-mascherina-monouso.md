@@ -9,7 +9,7 @@ menus:
     identifier: ""
     weight: 2
     title: Prone
-template: page
+template: home
 ---
 Prima di iniziare il training è necessaria una **prova preliminare** per comprendere il livello d’insegnamento da cui partire. Il livello deve essere comunicato al proprio coordinatore di riferimento per stabilire gli obiettivi a breve termine.
 
