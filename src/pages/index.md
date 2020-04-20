@@ -6,7 +6,7 @@ sidebar:
       url: "#intro"
       is_primary: true
     - title: Protocollo mascherina monouso
-      url: "#four"
+      url: "#one"
       is_primary: false
     - title: Protocollo guanti monouso
       url: "#two"
@@ -65,7 +65,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Vai al protocollo
-        url: /protocollo1
+        url: /prone
     features_list: []
   - type: features
     title: Protocollo d’insegnamento per indossare i guanti monouso
