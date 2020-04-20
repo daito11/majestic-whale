@@ -5,18 +5,15 @@ sidebar:
     - title: Welcome
       url: "#intro"
       is_primary: true
-    - title: "Step 1: Prima parte dell’esposizione graduale"
+    - title: Protocollo mascherina monouso
       url: "#one"
       is_primary: false
-    - title: "Step 2: Seconda parte dell’esposizione graduale"
+    - title: Protocollo guanti monouso
       url: "#two"
       is_primary: false
     - is_primary: false
-      title: "Step 3: Terza parte dell’esposizione graduale"
+      title: Protocollo mascherina e guanti monouso
       url: "#three"
-    - is_primary: false
-      title: Contattaci
-      url: "#four"
 sections:
   - type: intro
     title: Protocollo
@@ -63,51 +60,34 @@ sections:
     section_id: one
     background_style: style2
     component: Features
-    subtitle: >-
-      In questo video vedremo come approcciarsi alla mascherina, come avvicinare
-      la persona ad uno stimolo nuovo.
-
-      Qualora la persona abbia già raggiunto questo step, passare allo step 2.
+    subtitle: ""
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al corso
+        label: Vai al protocollo
         url: "#one"
   - type: features
     title: Protocollo d’insegnamento per indossare i guanti monouso
     section_id: two
     background_style: style1
     component: Features
-    subtitle: In questo video vedremo come è possibile svolgere l’esposizione
-      gradualmente incrementando la distanza ed il tempo di esposizione. Qualora
-      la persona abbia già raggiunto questo step, passare allo step 3.
+    subtitle: ""
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al corso
+        label: Vai al protocollo
         url: "#two"
   - type: features
     title: Protocollo d’insegnamento per indossare la mascherina e guanti monouso
     section_id: three
     background_style: style2
     component: Features
-    subtitle: In questo video vedremo come esporre gradualmente la persona ad
-      indossare la mascherina.
+    subtitle: ""
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al corso
+        label: Vai al protocollo
         url: "#three"
-  - type: contact
-    title: Contact Section
-    section_id: four
-    background_style: style1
-    component: Contact
-    social:
-      social_icons:
-        - title: Facebook
-          icon: facebook
-          url: https://www.facebook.com/centroallenamente/
 menus:
   main:
     title: Home
