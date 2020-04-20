@@ -16,7 +16,7 @@ sidebar:
       url: "#three"
 sections:
   - type: intro
-    title: Protocollo
+    title: TutoriAllenamente
     subtitle: >-
       Che tipo di comportamenti saremo chiamati ad esibire quando il lockdown
       sarà finito e inizierà la Fase 2?
