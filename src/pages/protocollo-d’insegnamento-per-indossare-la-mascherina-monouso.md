@@ -21,11 +21,6 @@ sections:
       prova
     section_id: intro
     background_style: style1
-    actions:
-      - label: Learn more
-        url: "#one"
-        is_scrolly: true
-        is_primary: false
     component: Intro
   - type: features
     title: Protocollo d’insegnamento per indossare la mascherina monouso
