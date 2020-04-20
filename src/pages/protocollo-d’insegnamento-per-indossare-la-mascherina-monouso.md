@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Protocollo 1
 sidebar:
   entries:
     - title: Introduzione
