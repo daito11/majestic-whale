@@ -16,9 +16,9 @@ sidebar:
       url: "#three"
 sections:
   - type: intro
-    title: protocollo d'insegnamento per indossare la mascherina monouso
+    title: Protocollo d'insegnamento per indossare la mascherina monouso
     subtitle: >-
-      prova
+      Descrizione del protocollo
     section_id: intro
     background_style: style1
     component: Intro
