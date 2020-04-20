@@ -65,7 +65,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Vai al protocollo
-        url: "#one"
+        url: /protocollo1
     features_list: []
   - type: features
     title: Protocollo d’insegnamento per indossare i guanti monouso
