@@ -16,7 +16,7 @@ sidebar:
       url: "#three"
 sections:
   - type: intro
-    title: TutoriAllenamente
+    title: protocollo d'insegnamento per indossare la mascherina monouso
     subtitle: >-
       prova
     section_id: intro
