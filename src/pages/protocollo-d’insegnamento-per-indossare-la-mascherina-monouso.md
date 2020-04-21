@@ -41,7 +41,7 @@ sections:
     section_id: one
     background_style: style2
     component: Features
-    subtitle: ""
+    subtitle: "Familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema."
     actions:
       - is_scrolly: false
         is_primary: false
