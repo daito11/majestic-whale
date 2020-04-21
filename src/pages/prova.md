@@ -136,6 +136,8 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 </div>
 </div>
 
+<hr style="width:0%">
+
 *Valutazione intermedia:*
 
 ·    Misurare i tempi di tolleranza all’indossare la mascherina. E’ necessario utilizzare un timer.
@@ -174,6 +176,8 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
   </div>
 </div>
 </div>
+
+<hr style="width:0%">
 
 *Valutazione intermedia:*
 
