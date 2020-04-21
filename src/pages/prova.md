@@ -31,7 +31,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 }
 
 .center {
-  margin: 0;
+  margin: 10;
   position: absolute;
   top: 50%;
   left: 50%;
