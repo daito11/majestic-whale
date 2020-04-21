@@ -10,21 +10,18 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 *Valutazione preliminare:*
 
-1)   Rifiuta di mettere la mascherina (esibisce comportamenti problematici come allontanare lo stimolo, gettarlo via, piangere, lamentarsi, urlate)
-
-2)   Se la fa mettere in maniera corretta passandola dietro le orecchie ma la toglie immediatamente
-
-3)   Se la fa mettere in maniera corretta passandola dietro le orecchie e la tiene per qualche tempo (prendere con un timer il tempo in cui il bambino/ragazzo riesce ad indossarla senza toglierla)
-
-4)   Se la fa mettere in maniera corretta passandola dietro le orecchie e la tollera per un tempo abbastanza lungo in diversi contesti (casa, fuori, mentre gioca). Si consiglia comunque di prendere sempre il tempo con un timer.
+1. Rifiuta di mettere la mascherina (esibisce comportamenti problematici come allontanare lo stimolo, gettarlo via, piangere, lamentarsi, urlate)
+2. Se la fa mettere in maniera corretta passandola dietro le orecchie ma la toglie immediatamente
+3. Se la fa mettere in maniera corretta passandola dietro le orecchie e la tiene per qualche tempo (prendere con un timer il tempo in cui il bambino/ragazzo riesce ad indossarla senza toglierla)
+4. Se la fa mettere in maniera corretta passandola dietro le orecchie e la tollera per un tempo abbastanza lungo in diversi contesti (casa, fuori, mentre gioca). Si consiglia comunque di prendere sempre il tempo con un timer.
 
 *Training di insegnamento:*
 
 **Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina)**
 
-**Step 1**: familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
+<div style="background-color:darkturquoise;color:whitesmoke;padding:20px;border-radius:10px;">**Step 1**: familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema. </div>
 
-**Step 2**: L’adulto avvicina e toglie la mascherina alla bocca del bambino/ragazzo (senza agganciarla dietro le orecchie). Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
+<div style="background-color:darkturquoise;color:whitesmoke;padding:20px;border-radius:10px;">**Step 2**: L’adulto avvicina e toglie la mascherina alla bocca del bambino/ragazzo (senza agganciarla dietro le orecchie). Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.</div>
 
 **Step 3**: L’adulto avvicina la mascherina alla bocca del bambino/ragazzo mantenendola per 3 sec. e poi la allontana. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
