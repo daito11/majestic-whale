@@ -14,6 +14,9 @@ sidebar:
     - is_primary: false
       title: Protocollo mascherina e guanti monouso
       url: "#three"
+    - title: Torna alla home
+      url: "home"
+      is_primary: false
 sections:
   - type: intro
     title: TutoriAllenamente
