@@ -76,7 +76,7 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al protocollo
+        label: Coming soon
         url: "#two"
   - type: features
     title: Protocollo d’insegnamento per indossare la mascherina e guanti monouso
@@ -87,7 +87,7 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Vai al protocollo
+        label: Coming soon
         url: "#three"
 menus:
   main:
