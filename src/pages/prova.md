@@ -31,9 +31,9 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 }
 
 .center {
-  margin: 10;
+  margin: 0;
   position: absolute;
-  top: 50%;
+  top: 100%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -42,7 +42,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <div class="container">
   <div class="center">
-    <button>Centered Button</button>
+    <button>Vai al video</button>
   </div>
 </div>
 
