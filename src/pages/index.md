@@ -51,8 +51,8 @@ sections:
     background_style: style1
     actions:
       - label: Learn more
-        url: "http://www.centroallenamente.it/"
-        is_scrolly: true
+        url: "http://www.centroallenamente.it"
+        is_scrolly: false
         is_primary: false
     component: Intro
   - type: features
