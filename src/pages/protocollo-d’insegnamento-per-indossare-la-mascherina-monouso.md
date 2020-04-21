@@ -11,9 +11,12 @@ sidebar:
     - title: Step 2
       url: "#two"
       is_primary: false
-    - is_primary: false
-      title: Step 3
+    - title: Step 3
       url: "#three"
+      is_primary: false
+    - is_primary: false
+      title: Torna alla home
+      url: "#index"
 sections:
   - type: intro
     title: Protocollo d'insegnamento per indossare la mascherina monouso
