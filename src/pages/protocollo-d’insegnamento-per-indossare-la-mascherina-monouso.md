@@ -16,7 +16,7 @@ sidebar:
       is_primary: false
     - is_primary: false
       title: Torna alla home
-      url: "#index"
+      url: "https://protocollo-allenam.netlify.app"
 sections:
   - type: intro
     title: Protocollo d'insegnamento per indossare la mascherina monouso
