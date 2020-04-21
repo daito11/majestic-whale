@@ -15,8 +15,8 @@ sidebar:
       title: Protocollo mascherina e guanti monouso
       url: "#three"
     - title: Torna alla home
-      url: "https://protocollo-allenam.netlify.app/"
-      is_primary: true
+      url: "https://protocollo-allenam.netlify.app"
+      is_primary: false
 sections:
   - type: intro
     title: TutoriAllenamente
