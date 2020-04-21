@@ -51,7 +51,7 @@ sections:
     background_style: style1
     actions:
       - label: Learn more
-        url: "http://www.centroallenamente.it"
+        url: "#one"
         is_scrolly: false
         is_primary: false
     component: Intro
