@@ -52,7 +52,7 @@ sections:
     actions:
       - label: Learn more
         url: "#one"
-        is_scrolly: false
+        is_scrolly: true
         is_primary: false
     component: Intro
   - type: features
