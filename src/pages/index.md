@@ -15,7 +15,7 @@ sidebar:
       title: Protocollo mascherina e guanti monouso
       url: "#three"
     - title: Torna alla home
-      url: "https://protocollo-allenam.netlify.app/protocollo-d%E2%80%99insegnamento-per-indossare-la-mascherina-monouso"
+      url: "https://protocollo-allenam.netlify.app/"
       is_primary: false
 sections:
   - type: intro
