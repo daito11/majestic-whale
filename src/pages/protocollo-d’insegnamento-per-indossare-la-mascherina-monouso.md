@@ -64,7 +64,7 @@ sections:
     section_id: three
     background_style: style2
     component: Features
-    subtitle: ""
+    subtitle: "L’adulto avvicina la mascherina alla bocca del bambino/ragazzo mantenendola per 3 sec. e poi la allontana. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema."
     actions:
       - is_scrolly: false
         is_primary: false
