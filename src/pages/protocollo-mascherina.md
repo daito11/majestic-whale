@@ -21,17 +21,11 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 - - -
 
-> Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina).
-Ogni step presenta delle stringhe di comunicazione aumentativa alternativa (CAA) che aiuteranno nel momento in cui verrà data l'istruzione ai bambini/ragazzi
+> Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina). Ogni step presenta delle stringhe di comunicazione aumentativa alternativa (CAA) che aiuteranno nel momento in cui verrà data l'istruzione ai bambini/ragazzi
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
-<p><img src="/images/step1.png" alt="Schermata 2020-04-20 alle 10.43.38" style="float:left;zoom:10%;padding:50px">
-
-**Step 1**: familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.</p>
-
-
-
+<p><img src="/images/step1.png" alt="Schermata 2020-04-20 alle 10.43.38" style="float:left;zoom:20%;margin-right:50px;"> **Step 1**: familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.</p>
 
 <style>
 .container {
