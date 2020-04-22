@@ -26,9 +26,11 @@ Ogni step presenta delle stringhe di comunicazione aumentativa alternativa (CAA)
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
+<img src="/images/step1.png" alt="Schermata 2020-04-20 alle 10.43.38" style="float:left;zoom:10%;padding:50px">
+
 **Step 1**: familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
-<img src="/images/step1.png" alt="Schermata 2020-04-20 alle 10.43.38" style="zoom:25%;" />
+
 
 
 <style>
