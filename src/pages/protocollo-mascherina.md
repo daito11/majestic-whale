@@ -27,7 +27,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 **Step 1**: Familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
-<img src="/images/step_12.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/step_12.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto;"/>
 
 <style>
 .container {
