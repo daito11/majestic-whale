@@ -21,7 +21,8 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 - - -
 
-> Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina). Ogni step presenta delle stringhe di Comunicazione Aumentativa Alternativa (CAA) che vi aiuteranno nel momento in cui darete l'istruzione ai bambini/ragazzi. Vi consigliamo di presentare la stringa accompagnata dall’istruzione verbale ogni qual volta chiedete al bambino/ragazzo di emettere il comportamento corretto.
+> Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina). Ogni step presenta delle stringhe di Comunicazione Aumentativa Alternativa (CAA) che vi aiuteranno nel momento in cui darete l'istruzione ai bambini/ragazzi. Vi consigliamo di presentare la stringa accompagnata dall’istruzione verbale ogni qual volta chiedete al bambino/ragazzo di emettere il comportamento corretto.\
+> Per scaricare il file contenente le stringhe di CAA [clicca qui](https://drive.google.com/file/d/1ZJWwCxNXQl5aCL7SMC4E-sLg1ZZTyCgc/view?usp=sharing).
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
