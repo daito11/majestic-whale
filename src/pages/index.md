@@ -81,7 +81,7 @@ sections:
   - type: features
     title: Protocollo d’insegnamento per indossare la mascherina e guanti monouso
     section_id: three
-    background_style: style2
+    background_style: style3
     component: Features
     subtitle: ""
     actions:
