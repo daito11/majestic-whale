@@ -93,6 +93,10 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 **Step 3**: L’adulto avvicina la mascherina alla bocca del bambino/ragazzo mantenendola per 3 sec. e poi la allontana. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
+<img src="/images/step3.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto"/>
+
+
+
 <style>
 .container {
   height: 10px;
