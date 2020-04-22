@@ -6,28 +6,28 @@ home_spotlights:
     data_position: top center
 template: page
 ---
-
 Prima di iniziare il training è necessaria una **prova preliminare** per comprendere il livello d’insegnamento da cui partire. Il livello deve essere comunicato al proprio coordinatore di riferimento per stabilire gli obiettivi a breve termine.
 
 #### Valutazione preliminare
 
-1)   Rifiuta di mettere la mascherina (esibisce comportamenti problematici come allontanare lo stimolo, gettarlo via, piangere, lamentarsi, urlate)
+1. Rifiuta di mettere la mascherina (esibisce comportamenti problematici come allontanare lo stimolo, gettarlo via, piangere, lamentarsi, urlate)
+2. Se la fa mettere in maniera corretta passandola dietro le orecchie ma la toglie immediatamente
+3. Se la fa mettere in maniera corretta passandola dietro le orecchie e la tiene per qualche tempo (prendere con un timer il tempo in cui il bambino/ragazzo riesce ad indossarla senza toglierla)
+4. Se la fa mettere in maniera corretta passandola dietro le orecchie e la tollera per un tempo abbastanza lungo in diversi contesti (casa, fuori, mentre gioca). Si consiglia comunque di prendere sempre il tempo con un timer.
 
-2)   Se la fa mettere in maniera corretta passandola dietro le orecchie ma la toglie immediatamente
+- - -
 
-3)   Se la fa mettere in maniera corretta passandola dietro le orecchie e la tiene per qualche tempo (prendere con un timer il tempo in cui il bambino/ragazzo riesce ad indossarla senza toglierla)
-
-4)   Se la fa mettere in maniera corretta passandola dietro le orecchie e la tollera per un tempo abbastanza lungo in diversi contesti (casa, fuori, mentre gioca). Si consiglia comunque di prendere sempre il tempo con un timer.
-
----
 ### Training di insegnamento
----
+
+- - -
 
 **Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina)**
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
 **Step 1**: familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
+
+![](/images/step1.png)
 
 <style>
 .container {
@@ -51,13 +51,11 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
   </div>
 </div>
 
-
 </div>
 
 <hr width="0%">
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
-
 
 **Step 2**: L’adulto avvicina e toglie la mascherina alla bocca del bambino/ragazzo (senza agganciarla dietro le orecchie). Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
@@ -83,13 +81,11 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
   </div>
 </div>
 
-
 </div>
 
 <hr width="0%">
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
-
 
 **Step 3**: L’adulto avvicina la mascherina alla bocca del bambino/ragazzo mantenendola per 3 sec. e poi la allontana. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
@@ -115,13 +111,11 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
   </div>
 </div>
 
-
 </div>
 
 <hr width="0%">
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
-
 
 **Step 4**: l’adulto avvicina la mascherina alla bocca del bambino/ragazzo e passa gli elastici dietro alle orecchie; immediatamente la toglie. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
@@ -147,18 +141,15 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
   </div>
 </div>
 
-
 </div>
 
 <hr width="0%">
 
 #### Valutazione intermedia
 
-- Misurare i tempi di tolleranza all’indossare la mascherina. E’ necessario utilizzare un timer.
-
+* Misurare i tempi di tolleranza all’indossare la mascherina. E’ necessario utilizzare un timer.
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
-
 
 **Step 5**: incrementare i tempi di tolleranza partendo da un tempo pari a 2 sec. in meno rispetto alla misurazione risultata dalla valutazione intermedia. SE:
 
@@ -188,14 +179,13 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
   </div>
 </div>
 
-
 </div>
 
 <hr width="0%">
 
 #### Valutazione intermedia
 
-- Misurare i tempi di tolleranza all’indossare la mascherina durante attività gradite. E’ necessario utilizzare un timer.
+* Misurare i tempi di tolleranza all’indossare la mascherina durante attività gradite. E’ necessario utilizzare un timer.
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
@@ -222,7 +212,6 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
     <button>Vai al video</button>
   </div>
 </div>
-
 
 </div>
 
@@ -254,15 +243,4 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
   </div>
 </div>
 
-
 </div>
-
-
-
- 
-
- 
-
- 
-
- 
