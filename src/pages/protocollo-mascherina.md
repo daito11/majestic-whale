@@ -47,7 +47,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <div class="container">
   <div class="center">
-    <button  onclick="window.location.href = '<https://drive.google.com/file/d/1Jaqnk8I2urnantqxA_S1FfXG_PRCEfhY/view?usp=sharing>';">[](https://drive.google.com/file/d/1Jaqnk8I2urnantqxA_S1FfXG_PRCEfhY/view?usp=sharing)Vai al video</button>
+    <button href="<https://drive.google.com/file/d/1Jaqnk8I2urnantqxA_S1FfXG_PRCEfhY/view?usp=sharing>">Vai al video</button>
   </div>
 </div>
 
