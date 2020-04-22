@@ -79,7 +79,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <div class="container">
   <div class="center">
-    <button>Vai al video</button>
+     <button><a href="https://drive.google.com/file/d/1zUpgl0QBHumHtn1-cNBfT5JnPrFE9nl_/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
