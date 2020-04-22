@@ -19,7 +19,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 4)   Se la fa mettere in maniera corretta passandola dietro le orecchie e la tollera per un tempo abbastanza lungo in diversi contesti (casa, fuori, mentre gioca). Si consiglia comunque di prendere sempre il tempo con un timer.
 
-*Training di insegnamento:*
+### Training di insegnamento
 
 **Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina)**
 
@@ -150,11 +150,10 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <hr width="0%">
 
-*Valutazione intermedia:*
+#### Valutazione intermedia
 
-·    Misurare i tempi di tolleranza all’indossare la mascherina. E’ necessario utilizzare un timer.
+- Misurare i tempi di tolleranza all’indossare la mascherina. E’ necessario utilizzare un timer.
 
-*Training di insegnamento:*
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
