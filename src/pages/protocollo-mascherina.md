@@ -197,7 +197,7 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
-**Step 6:** Se necessario incremento dei tempi di tolleranza durante le attività come allo **Step 5**
+**Step 6:** Se necessario incrementare dei tempi di tolleranza durante le attività come allo **Step 5**
 
 <img src="/images/step6.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
 
