@@ -19,6 +19,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 4)   Se la fa mettere in maniera corretta passandola dietro le orecchie e la tollera per un tempo abbastanza lungo in diversi contesti (casa, fuori, mentre gioca). Si consiglia comunque di prendere sempre il tempo con un timer.
 
+---
 ### Training di insegnamento
 ---
 
