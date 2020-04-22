@@ -111,7 +111,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <div class="container">
   <div class="center">
-    <button>Vai al video</button>
+    <button><a href="https://drive.google.com/file/d/1SEUd6SV-EWU5WDw2dR-YfDRgLkxIimu_/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
@@ -143,7 +143,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <div class="container">
   <div class="center">
-    <button>Vai al video</button>
+    <button><a href="https://drive.google.com/file/d/1AThicZF-cLg8jLBVMb9wdb6UA0sWN4Ib/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
@@ -183,7 +183,7 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 
 <div class="container">
   <div class="center">
-    <button>Vai al video</button>
+    <button><a href="https://drive.google.com/file/d/1rh_yuOOpBUqzF-dBKF1brL3R3M3ppKYW/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
@@ -219,7 +219,7 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 
 <div class="container">
   <div class="center">
-    <button>Vai al video</button>
+    <button><a href="https://drive.google.com/file/d/1x4cI9C3QUAqyKtN-fdmNtjtn4Yvp_cEF/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
@@ -251,7 +251,7 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 
 <div class="container">
   <div class="center">
-    <button>Vai al video</button>
+    <button><a href="https://drive.google.com/file/d/1NaZrurxkHO12B4vL4_mi9Z7-EBXc0Q63/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
