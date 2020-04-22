@@ -9,7 +9,7 @@ template: page
 
 Prima di iniziare il training è necessaria una **prova preliminare** per comprendere il livello d’insegnamento da cui partire. Il livello deve essere comunicato al proprio coordinatore di riferimento per stabilire gli obiettivi a breve termine.
 
-*Valutazione preliminare:*
+#### Valutazione preliminare
 
 1)   Rifiuta di mettere la mascherina (esibisce comportamenti problematici come allontanare lo stimolo, gettarlo via, piangere, lamentarsi, urlate)
 
@@ -193,9 +193,9 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 
 <hr width="0%">
 
-*Valutazione intermedia:*
+#### Valutazione intermedia
 
-·    Misurare i tempi di tolleranza all’indossare la mascherina durante attività gradite. E’ necessario utilizzare un timer.
+- Misurare i tempi di tolleranza all’indossare la mascherina durante attività gradite. E’ necessario utilizzare un timer.
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
