@@ -127,6 +127,10 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 **Step 4**: l’adulto avvicina la mascherina alla bocca del bambino/ragazzo e passa gli elastici dietro alle orecchie; immediatamente la toglie. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
+<img src="/images/step4.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto"/>
+
+
+
 <style>
 .container {
   height: 10px;
