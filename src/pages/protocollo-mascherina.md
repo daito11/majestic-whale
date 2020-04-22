@@ -47,7 +47,7 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <div class="container">
   <div class="center">
-    <button>Vai al video</button>
+    <button>[Vai al video](https://drive.google.com/file/d/1Jaqnk8I2urnantqxA_S1FfXG_PRCEfhY/view?usp=sharing)</button>
   </div>
 </div>
 
@@ -60,8 +60,6 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 **Step 2**: L’adulto avvicina e toglie la mascherina alla bocca del bambino/ragazzo (senza agganciarla dietro le orecchie). Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
 <img src="/images/Step2.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
-
-
 
 <style>
 .container {
@@ -95,8 +93,6 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 <img src="/images/step3.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
 
-
-
 <style>
 .container {
   height: 10px;
@@ -128,8 +124,6 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 **Step 4**: L’adulto avvicina la mascherina alla bocca del bambino/ragazzo e passa gli elastici dietro alle orecchie; immediatamente la toglie. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
 <img src="/images/step4.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
-
-
 
 <style>
 .container {
@@ -171,8 +165,6 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 
 <img src="/images/step5.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
 
-
-
 <style>
 .container {
   height: 10px;
@@ -209,8 +201,6 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 
 <img src="/images/step6.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
 
-
-
 <style>
 .container {
   height: 10px;
@@ -242,8 +232,6 @@ B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa d
 **Step 7**: Tolleranza mascherina durante le uscite a piedi. L’obiettivo è raggiunto nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 prove consecutive senza emissione di comportamenti problema.
 
 <img src="/images/step7.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
-
-
 
 <style>
 .container {
