@@ -1,14 +1,11 @@
 ---
-title: prova
+title: Protocollo d’insegnamento per indossare la mascherina monouso
 home_spotlights:
   enabled: false
   home_img:
     data_position: top center
 template: page
 ---
- 
-
-**Protocollo d’insegnamento per indossare la mascherina monouso**
 
 Prima di iniziare il training è necessaria una **prova preliminare** per comprendere il livello d’insegnamento da cui partire. Il livello deve essere comunicato al proprio coordinatore di riferimento per stabilire gli obiettivi a breve termine.
 
@@ -26,7 +23,36 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 **Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina)**
 
+<div style="background-color:#4c9194;color:white;padding:50px;border-radius:15px">
+
 **Step 1**: familiarizza con la mascherina. La tocca, la mette ai peluche/bambole, la mette ai genitori/fratelli ecc. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
+
+<style>
+.container {
+  height: 10px;
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+</style>
+
+<div class="container">
+  <div class="center">
+    <button>Vai al video</button>
+  </div>
+</div>
+
+
+</div>
+
+<hr width="0%">
 
 **Step 2**: L’adulto avvicina e toglie la mascherina alla bocca del bambino/ragazzo (senza agganciarla dietro le orecchie). Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
 
