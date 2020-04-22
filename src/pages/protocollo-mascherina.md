@@ -21,8 +21,8 @@ Prima di iniziare il training è necessaria una **prova preliminare** per compre
 
 - - -
 
-==Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina).
-Ogni step presenta delle stringhe di comunicazione aumentativa alternativa (CAA) che aiuteranno nel momento in cui verrà data l'istruzione ai bambini/ragazzi==
+> Si consiglia di mettere il bambino seduto su una sedia e fargli porre le mani sulle cosce (questo perché vorremmo insegnare al bambino a NON toccare la mascherina).
+Ogni step presenta delle stringhe di comunicazione aumentativa alternativa (CAA) che aiuteranno nel momento in cui verrà data l'istruzione ai bambini/ragazzi
 
 <div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
 
