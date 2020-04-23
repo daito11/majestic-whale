@@ -104,6 +104,9 @@ sections:
     background_style: style4
     component: Features
     subtitle: >
+      Iscriviti alla mailing list per ricevere aggiornamenti
+
+
       <!-- Begin Mailchimp Signup Form -->
 
       <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -118,7 +121,7 @@ sections:
 
       <form action="https://centroallenamente.us19.list-manage.com/subscribe/post?u=234d796482f15274cb20eb4e1&amp;id=83253fd540" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
           <div id="mc_embed_signup_scroll">
-      	<h2 style="color:whitesmoke;">Iscriviti alla mailing list per ricevere aggiornamenti</h2>
+      	<h2 style="color:whitesmoke;"><!--Iscriviti alla mailing list per ricevere aggiornamenti--></h2>
       <div class="indicates-required" style="color:whitesmoke;"><span class="asterisk" >*</span> campo obbligatorio</div>
 
       <div class="mc-field-group">
