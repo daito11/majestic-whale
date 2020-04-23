@@ -60,7 +60,7 @@ transform: translate(-50%, -50%);
 
 **Step 2**: L’adulto avvicina e toglie il guanto al bambino/ragazzo (senza infilarlo per intero). Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
     
-<img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/Step2g.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
 <style>
 .container {
@@ -91,7 +91,7 @@ transform: translate(-50%, -50%);
 
 **Step 3**: L’adulto avvicina il guanto alla mano del bambino/ragazzo mantenendolo per 3 sec. e poi la allontana. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
     
-<img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/Step3_4g.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
 <style>
 .container {
@@ -123,7 +123,7 @@ transform: translate(-50%, -50%);
 
 **Step 4**: L’adulto fa indossare il guanto al bambino/ragazzo ed immediatamente la toglie. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
     
-<img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/Step3_4g.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
 <style>
 .container {
@@ -155,7 +155,7 @@ transform: translate(-50%, -50%);
 
 **Step 5**: L’adulto fa indossare i guanti  al bambino ragazzo ed immediatamente li toglie. Si ritiene acquisito lo step nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 volte consecutive senza emissione di comportamenti problema.
     
-<img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/Step5g.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
 <style>
 .container {
@@ -195,7 +195,7 @@ A.   Il tempo di tolleranza è risultato inferiore a 1 minuto si incrementa di 5
     
 B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa di 20 sec, 30 sec, 1 minuto, 1 minuto e 30 sec. ogni volta che si è raggiunto l’obiettivo stabilito nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 prove consecutive senza emissione di comportamenti problema.
     
-<img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/Step6g.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
 <style>
 .container {
@@ -231,7 +231,7 @@ transform: translate(-50%, -50%);
 
 **Step 7:** Se necessario incrementare dei tempi di tolleranza durante le attività come allo **Step 6**
     
-<img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/Step7g.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
 <style>
 .container {
@@ -263,7 +263,7 @@ transform: translate(-50%, -50%);
 
 **Step 8**: Tolleranza dei guanti durante le uscite a piedi. L’obiettivo è raggiunto nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 prove consecutive senza emissione di comportamenti problema.
     
-<img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
+<img src="/images/Step8g.png" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
 <style>
 .container {
