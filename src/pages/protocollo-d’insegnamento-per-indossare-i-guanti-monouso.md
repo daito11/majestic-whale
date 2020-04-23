@@ -93,29 +93,29 @@ transform: translate(-50%, -50%);
     
 <img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
-    <style>
-    .container {
-      height: 10px;
-      position: relative;
-    }
+<style>
+.container {
+height: 10px;
+position: relative;
+}
     
-    .center {
-      margin: 0;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
+.center {
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+}
     </style>
     
-    <div class="container">
-      <div class="center">
-        <button><a href="">Vai al video</a></button>
-      </div>
-    </div>
+<div class="container">
+<div class="center">
+<button><a href="">Vai al video</a></button>
+</div>
+</div>
     
-    </div>
+</div>
 
 <hr width="0%">
 
@@ -125,29 +125,29 @@ transform: translate(-50%, -50%);
     
 <img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
-    <style>
-    .container {
-      height: 10px;
-      position: relative;
-    }
+<style>
+.container {
+height: 10px;
+position: relative;
+}
     
-    .center {
-      margin: 0;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
+.center {
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+}
     </style>
     
-    <div class="container">
-      <div class="center">
-        <button><a href="">Vai al video</a></button>
-      </div>
-    </div>
+<div class="container">
+<div class="center">
+<button><a href="">Vai al video</a></button>
+</div>
+</div>
     
-    </div>
+</div>
 
 <hr width="0%">
 
