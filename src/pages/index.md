@@ -103,11 +103,12 @@ sections:
     section_id: four
     background_style: style4
     component: Features
-    subtitle: >
-      Iscriviti alla mailing list per ricevere aggiornamenti
+    subtitle: >-
+      ### Iscriviti alla mailing list per ricevere aggiornamenti
 
 
       <!-- Begin Mailchimp Signup Form -->
+
 
       <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
