@@ -77,14 +77,13 @@ left: 50%;
 transform: translate(-50%, -50%);
 }
     </style>
+<div class="container">
+<div class="center">
+<button><a href="">Vai al video</a></button>
+</div>
+</div>
     
-    <div class="container">
-      <div class="center">
-         <button><a href="">Vai al video</a></button>
-      </div>
-    </div>
-    
-    </div>
+</div>
 
 <hr width="0%">
 
