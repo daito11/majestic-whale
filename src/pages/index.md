@@ -60,7 +60,9 @@ sections:
     section_id: one
     background_style: style2
     component: Features
-    subtitle: ""
+    subtitle: In questa sezione vedremo come insegnare al nostro bambino/ragazzo
+      come indossare correttamente la mascherina monouso attraverso dei video
+      tutorial.
     actions:
       - is_scrolly: false
         is_primary: false
@@ -72,7 +74,9 @@ sections:
     section_id: two
     background_style: style1
     component: Features
-    subtitle: ""
+    subtitle: In questa sezione vedremo come insegnare al nostro bambino/ragazzo
+      come indossare correttamente i guanti monouso attraverso dei video
+      tutorial.
     actions:
       - is_scrolly: false
         is_primary: false
@@ -83,7 +87,9 @@ sections:
     section_id: three
     background_style: style2
     component: Features
-    subtitle: ""
+    subtitle: In questa sezione vedremo come insegnare al nostro bambino/ragazzo
+      come indossare correttamente la mascherina ed i guanti monouso attraverso
+      una storia sociale e dei video tutorial.
     actions:
       - is_scrolly: false
         is_primary: false
