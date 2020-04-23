@@ -48,7 +48,7 @@ transform: translate(-50%, -50%);
  
 <div class="container">
 <div class="center">
-<button><a href="" target="_top">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/1jsYPkpJv4Q5ANmgxV5geTCTs7ZLAED1X/view?usp=sharing" target="_top">Vai al video</a></button>
 </div>
 </div>
  
@@ -79,7 +79,7 @@ transform: translate(-50%, -50%);
     </style>
 <div class="container">
 <div class="center">
-<button><a href="">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/1kcbwxGI4WbzHuSwh0IlLfm9-ALOL46nu/view?usp=sharing">Vai al video</a></button>
 </div>
 </div>
     
@@ -111,7 +111,7 @@ transform: translate(-50%, -50%);
     
 <div class="container">
 <div class="center">
-<button><a href="">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/1E_XedUsBGTux1WtWHrFOSP6gJN0QBR5K/view?usp=sharing">Vai al video</a></button>
 </div>
 </div>
     
@@ -143,7 +143,7 @@ transform: translate(-50%, -50%);
     
 <div class="container">
 <div class="center">
-<button><a href="">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/1p2V85MeecZAA6M1eyYPl3zewnvsOd2sS/view?usp=sharing">Vai al video</a></button>
 </div>
 </div>
     
@@ -175,7 +175,7 @@ transform: translate(-50%, -50%);
     
 <div class="container">
 <div class="center">
-<button><a href="">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/1k6P8brzjMhpGc_aTqo0XMy4bVYpmtqK0/view?usp=sharing">Vai al video</a></button>
 </div>
 </div>
     
@@ -215,7 +215,7 @@ transform: translate(-50%, -50%);
     
 <div class="container">
 <div class="center">
-<button><a href="">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/1pJ6wlQg7kOQlqtXUIQnUFt-HiGAM_dX8/view?usp=sharing">Vai al video</a></button>
 </div>
 </div>
     
@@ -251,7 +251,7 @@ transform: translate(-50%, -50%);
     
 <div class="container">
 <div class="center">
-<button><a href="">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/17qcy92lpjtUI97-3LmzW5I66JCe_JFpt/view?usp=sharing">Vai al video</a></button>
 </div>
 </div>
     
@@ -283,7 +283,7 @@ transform: translate(-50%, -50%);
     
 <div class="container">
 <div class="center">
-<button><a href="">Vai al video</a></button>
+<button><a href="https://drive.google.com/file/d/1lBikrY-hTpLebSWp43DNuzOfd2e_cucv/view?usp=sharing">Vai al video</a></button>
 </div>
 </div>
     
