@@ -109,7 +109,7 @@ sections:
       <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
       <style type="text/css">
-      	#mc_embed_signup{background:#4c9194; clear:left; font:14px Helvetica,Arial,sans-serif;}
+      	#mc_embed_signup{background:#23313C; clear:left; font:14px Helvetica,Arial,sans-serif;}
       	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
       	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
       </style>
@@ -149,7 +149,7 @@ sections:
       		<div class="response" id="mce-success-response" style="display:none"></div>
       	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_234d796482f15274cb20eb4e1_83253fd540" tabindex="-1" value=""></div>
-          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color:#23313C; border-radius: 15px"></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color:#4c9194; border-radius: 15px"></div>
           </div>
       </form>
 
