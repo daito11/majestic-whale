@@ -191,9 +191,9 @@ transform: translate(-50%, -50%);
 
 **Step 6**: Incrementare i tempi di tolleranza partendo da un tempo pari a 2 sec. in meno rispetto alla misurazione risultata dalla valutazione intermedia. SE:
 
-    A.   Il tempo di tolleranza è risultato inferiore a 1 minuto si incrementa di 5 sec, 7sec, 10 sec, 20 sec, 25 sec. ogni volta che si è raggiungo l’obiettivo stabilito nel momento in cui il bambino/ ragazzo riesce a emettere il comportamento corretto per 10 prove consecutive senza emissione di comportamenti problema.
+A.   Il tempo di tolleranza è risultato inferiore a 1 minuto si incrementa di 5 sec, 7sec, 10 sec, 20 sec, 25 sec. ogni volta che si è raggiungo l’obiettivo stabilito nel momento in cui il bambino/ ragazzo riesce a emettere il comportamento corretto per 10 prove consecutive senza emissione di comportamenti problema.
     
-    B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa di 20 sec, 30 sec, 1 minuto, 1 minuto e 30 sec. ogni volta che si è raggiunto l’obiettivo stabilito nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 prove consecutive senza emissione di comportamenti problema.
+B.   Il tempo di tolleranza è risultato tra 1 minuto e 3 minuti si incrementa di 20 sec, 30 sec, 1 minuto, 1 minuto e 30 sec. ogni volta che si è raggiunto l’obiettivo stabilito nel momento in cui il bambino/ragazzo riesce a emettere il comportamento corretto per 10 prove consecutive senza emissione di comportamenti problema.
     
 <img src="" style="zoom:30%; margin:200px; display:block; margin-left:auto; margin-right:auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"/>
     
