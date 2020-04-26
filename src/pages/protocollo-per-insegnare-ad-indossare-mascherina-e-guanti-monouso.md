@@ -57,7 +57,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <hr width="0%">
 
-<div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
+<div style="background-color:#213f56;color:whitesmoke;padding:50px;border-radius:15px">
 
 **Step 2**: L’adulto chiede al bambino di toccare la mascherina e i guanti, provarli, guardarsi insieme alla specchio e chiedere al bambino se si sente a suo agio o meno.
 
@@ -87,7 +87,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <hr width="0%">
 
-<div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
+<div style="background-color:#213f56;color:whitesmoke;padding:50px;border-radius:15px">
 
 **Step 3**: Indossare la mascherina e i guanti e fare alcune brevi attività in casa come disegnare, colorare, leggere ecc.
 
@@ -117,7 +117,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <hr width="0%">
 
-<div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
+<div style="background-color:#213f56;color:whitesmoke;padding:50px;border-radius:15px">
 
 **Step 4**:  Indossare la mascherina e i guanti ed uscire per brevi passeggiate anche finalizzate come andare a buttare la spazzatura, annaffiare le piante ecc.
 
@@ -148,7 +148,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 <hr width="0%">
 
 
-<div style="background-color:#4c9194;color:whitesmoke;padding:50px;border-radius:15px">
+<div style="background-color:#213f56;color:whitesmoke;padding:50px;border-radius:15px">
 
 **Step 5**: Indossare la mascherina e i guanti per uscire e andare dai nonni, giocare a pallone, andare al parco giochi.
 
