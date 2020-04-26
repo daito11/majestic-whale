@@ -84,7 +84,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Vai al protocollo
-        url: /protocollo-guanti/
+        url: /protocollo-guanti.html
   - type: features
     title: Protocollo d’insegnamento per indossare la mascherina e guanti monouso
     section_id: three
@@ -97,7 +97,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Vai al protocollo
-        url: /protocollo-per-insegnare-ad-indossare-mascherina-e-guanti-monouso/
+        url: /protocollo-per-insegnare-ad-indossare-mascherina-e-guanti-monouso.html
   - type: features
     title: Contatti
     section_id: four
