@@ -27,7 +27,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 - - -
 
-<div style="background-color:#ff7b5a;color:whitesmoke;padding:50px;border-radius:15px">
+<div style="background-color:#213f56;color:whitesmoke;padding:50px;border-radius:15px">
 
 **Step 1**: Guardare insieme al bambino la storia sociale sull’uso della mascherina e guanti monouso.
 
