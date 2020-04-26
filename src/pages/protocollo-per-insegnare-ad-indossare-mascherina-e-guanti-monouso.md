@@ -49,7 +49,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <div class="container">
   <div class="center">
-    <button><a href="" target="_top">Vai al video</a></button>
+    <button><a href="https://drive.google.com/file/d/1BezZR7-ixem4r8NyRgETSOArmz0gK3TM/view?usp=sharing" target="_top">Vai al video</a></button>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <div class="container">
   <div class="center">
-     <button><a href="">Vai al video</a></button>
+     <button><a href="https://drive.google.com/file/d/18oXev1aqe-NyTxdtHZ17CPqg8V2rredH/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
@@ -109,7 +109,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <div class="container">
   <div class="center">
-    <button><a href="">Vai al video</a></button>
+    <button><a href="https://drive.google.com/file/d/1zo3ZNYXLmK0xfx_aXGfPQSuwY0k-WbUs/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
@@ -139,7 +139,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <div class="container">
   <div class="center">
-    <button><a href="">Vai al video</a></button>
+    <button><a href="https://drive.google.com/file/d/1pEPPkfDj_coo1H7ekuRiKDCwtwTHUNzR/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
@@ -170,7 +170,7 @@ Prima di iniziare il training ufficiale eseguire una **prova preliminare** per c
 
 <div class="container">
   <div class="center">
-    <button><a href="">Vai al video</a></button>
+    <button><a href="https://drive.google.com/file/d/1nkb_25ucB1ZQKlowE6HSjJlCdkQX-U-B/view?usp=sharing">Vai al video</a></button>
   </div>
 </div>
 
