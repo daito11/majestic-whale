@@ -96,8 +96,8 @@ sections:
     actions:
       - is_scrolly: false
         is_primary: false
-        label: Coming soon
-        url: "#three"
+        label: Vai al protocollo
+        url: /protocollo-per-insegnare-ad-indossare-mascherina-e-guanti-monouso
   - type: features
     title: Contatti
     section_id: four
