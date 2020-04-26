@@ -7,7 +7,7 @@ home_spotlights:
 menus:
   main:
     title: Protocollo mascherina e guanti monouso
-    weight: 3
+    weight: 4
 template: page
 ---
 Inizialmente è necessario **esplicitare la regola** che la mascherina e i guanti monouso devono essere indossati quando il papà, la mamma o un adulto di riferimento chiede di farlo.
