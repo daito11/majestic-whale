@@ -97,7 +97,7 @@ sections:
       - is_scrolly: false
         is_primary: false
         label: Vai al protocollo
-        url: ""
+        url: /protocollo-per-insegnare-ad-indossare-mascherina-e-guanti-monouso
   - type: features
     title: Contatti
     section_id: four
