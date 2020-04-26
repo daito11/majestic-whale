@@ -68,7 +68,7 @@ sections:
       tutorial.
     actions:
       - is_scrolly: false
-        is_primary: true
+        is_primary: false
         label: Vai al protocollo
         url: /protocollo-mascherina
     features_list: []
